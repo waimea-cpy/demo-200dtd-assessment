@@ -1,8 +1,8 @@
 # Design of a Database-Linked Website for NCEA Level 2
 
-Project Name: **PROJECT NAME HERE**
+Project Name: **CAT SPOTTER**
 
-Project Author: **YOUR NAME HERE**
+Project Author: **Steve Copley**
 
 Assessment Standards: **91892** and **91893**
 
@@ -13,22 +13,37 @@ Assessment Standards: **91892** and **91893**
 
 ### Identified Need or Problem
 
-Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
+Cat enthusiasts are always on the lookout for cats. They enjoy spotting them. However it is not easy to keep track of all the cat sightings since they often happen away from home. A system that helped cat spotters track their sightings would be useful.
 
 ### End-User Requirements
 
-Replace this text with a description of your typical end-users and their specific needs / expectations / requirements.
+Cat enthusiasts come from all walks of life, and can be young or old. This means that any system must use clear and simple language, and be suitable for people of any age. It should be accessible in terms of colours and fonts used.
+
+The level of IT expertise of the users could vary from high to very low. This means that the system must be very intuitive to use.
+
+Cat spotters love cats, so the system should be nicely designed, possibly with a cat theme.
 
 ### Proposed Solution
 
-Replace this text with a brief statement about the system that you intend to create, including the key functionality it should have.
+A website / app that allows a cat spotter to easily record sightings of new cats, or of known cats. User should be able to:
+
+- View a list of previous cats sighted
+- View a list of previous cat sightings (organised by cat, or by date)
+- Add a new cat to the system
+- Add a sighting of a new cat to the system
+
+Additionally, the system should:
+
+- Be very simple to use
+- Be accessible to all
+- Be well designed and a pleasure to use
 
 
 -------------------------------------------------
 
 ## Relevant Implications
 
-### IMPLICATION NAME HERE
+### Usability
 
 Replace this text with a clear explanation of what the implication means.
 
@@ -36,7 +51,7 @@ Replace this text with an explanation of why the implication is relevant to this
 
 Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
 
-### IMPLICATION NAME HERE
+### Functionality
 
 Replace this text with a clear explanation of what the implication means.
 
@@ -44,7 +59,7 @@ Replace this text with an explanation of why the implication is relevant to this
 
 Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
 
-### IMPLICATION NAME HERE
+### End-Users
 
 Replace this text with a clear explanation of what the implication means.
 
@@ -59,11 +74,11 @@ Replace this text with an explanation of what you will need to consider moving f
 
 ### Database Structure
 
-Place a image here that shows the *final design* of your database: tables, fields and relationships.
+Place a image here that shows the *final* design of your database: tables, fields and relationships.
 
 ### User Interface Design
 
-Place images here that show your *final design* of your UI: layout, colours, etc.
+Place images here that show your *final* UI design: layout, colours, etc.
 
 
 -------------------------------------------------
@@ -72,11 +87,11 @@ Place images here that show your *final design* of your UI: layout, colours, etc
 
 ### Database Structure
 
-Place a image here that shows the *actual database structure* that you implemented: tables, fields and relationships.
+Place a image here that shows the actual tables, fields and relationships you created in your final database.
 
 ### User Interface Design
 
-Place screenshots and notes here that show your *actual system UI* in action.
+Place images here that show your final system in action
 
 
 -------------------------------------------------
@@ -90,6 +105,10 @@ Replace this text with a brief evaluation of how well you met the needs of your 
 ### Meeting the System Requirements
 
 Replace this text with a brief evaluation of how well you met the requirements that you defined at the start of the project, etc. Look back at the list of features / functionality you initially set and discuss how well your system has implemented each one.
+
+### Review of Usability
+
+Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
 
 ### Review of IMPLICATION NAME HERE
 
