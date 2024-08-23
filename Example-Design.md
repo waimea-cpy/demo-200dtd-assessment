@@ -45,27 +45,32 @@ Additionally, the system should:
 
 ### Usability
 
-Replace this text with a clear explanation of what the implication means.
+The usability of a system relates to how easy / hard it is to use for the users it is intended for. 
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+Usability can be measured using Nielsens’s 10 usability heuristics which include:
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+- Making sure the status of the system is always clear
+- Keeping the UI clean and simple
+- Having consistency across the UI (similar layout / style)
+- Easy recognition of how the UI works (should be intuitive)
+- Etc.
+
+I will need to design my system to be as usable as possible since the users of the system may come from all walks of life and will have a wide range of IT skills. I need to ensure that the system is usable for people, even if they aren’t skilled with IT.
+
+As I design my system’s UI, I will refer to Nielsen’s heuristics and try to make sure that the UI meets them as far as possible. 
+
+Specifically, I will aim for a very clean and modern interface (**aesthetic and minimalist design**) that sticks to modern UI conventions (**consistency and standards**). The UI should be very intuitive to use (**recognition rather than recall**). Users should easily be able to see what lessons they are working on (**visibility of system status**).
+
+To verify this, I will test my UI with my users and obtain feedback which will allow me to refine my design.
+
 
 ### Functionality
 
-Replace this text with a clear explanation of what the implication means.
-
-Replace this text with an explanation of why the implication is relevant to this particular project.
-
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat duis ultricies lacus sed turpis tincidunt id aliquet risus.
 
 ### End-Users
 
-Replace this text with a clear explanation of what the implication means.
-
-Replace this text with an explanation of why the implication is relevant to this particular project.
-
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat duis ultricies lacus sed turpis tincidunt id aliquet risus. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc.
 
 
 -------------------------------------------------
@@ -74,7 +79,8 @@ Replace this text with an explanation of what you will need to consider moving f
 
 ### Database Structure
 
-Place a image here that shows the *final* design of your database: tables, fields and relationships.
+This is the final design of my database
+
 
 ### User Interface Design
 
