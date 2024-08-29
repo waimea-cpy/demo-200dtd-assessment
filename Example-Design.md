@@ -79,13 +79,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Database Structure
 
-This is the final design of my database
+This is the final design of my database:
 
+![DB Design Final](images/catsDB2.png)
 
 ### User Interface Design
 
-Place images here that show your *final* UI design: layout, colours, etc.
+This is the final design of my web pages:
 
+![UI Final](images/catsColour2.png)
 
 -------------------------------------------------
 
@@ -93,12 +95,23 @@ Place images here that show your *final* UI design: layout, colours, etc.
 
 ### Database Structure
 
-Place a image here that shows the actual tables, fields and relationships you created in your final database.
+This is the final database structure that I used:
+
+![DB final](images/catsDBFinal.png)
+
+You can see that it differs from the design in several ways:
+
+- Blah blah blah
+- Blah blah
+
 
 ### User Interface Design
 
-Place images here that show your final system in action
+This is how my website turned out:
 
+![Site 1](images/catsSite1.png)
+
+![Site 2](images/catsSite2.png)
 
 -------------------------------------------------
 
@@ -106,15 +119,29 @@ Place images here that show your final system in action
 
 ### Meeting the Needs of the Users
 
-Replace this text with a brief evaluation of how well you met the needs of your users. Look at what you initially wrote about who they are, what specific needs they have, etc. and discuss how well the system meets those needs.
+I initially identified some user needs:
+- The system must use clear and simple language
+- It should be suitable for people of any age
+- It should be accessible in terms of colours and fonts used
+- The system must be very intuitive to use
+- The system should be nicely designed, possibly with a cat theme
+
+I believe that I have satisfied all of these needs. The system is intuitive to use, and has been refined by user feedback throughout. Language is clear, colours look good, and the site works on both mobile and desktop.
 
 ### Meeting the System Requirements
 
-Replace this text with a brief evaluation of how well you met the requirements that you defined at the start of the project, etc. Look back at the list of features / functionality you initially set and discuss how well your system has implemented each one.
+I think that overall, my system meets the needs of my users and of the implications that I initially identified.
 
 ### Review of Usability
 
-Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+In my final system, I have produced a design that has a clean and simple UI. The UI was refined from initial concept to the final one using user testing, as well as using the principles of good UX design. The design is consistent throughout the site.
+
+![UI good](images/catsSite1.png)
+
+The navigation menu is easy to use and always visible (it ‘sticks’ to the top of the screen), and the status of the system is clear from the clear page headings. The user can always ‘back out’ of any page either using the browser ‘back’ button, or by picking an option from the menu.
+
+![menu](images/catsMenu.png)
+
 
 ### Review of IMPLICATION NAME HERE
 
