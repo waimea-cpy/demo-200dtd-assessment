@@ -1,20 +1,26 @@
-# Demo 200DTD Assessment
+# Cat Spotter
 
-This is demo Level 2 NCEA assessment project to show students how to setup their projects and documentation.
+This is my project for lovers of cats
 
-![Turnip](images/turnip.png)
+![Cats](docs/images/cats.webp)
 
-It is a database-connected website that allows users to:
+It is a database-connected website that allows users to easily record sightings of new cats, or of known cats. Users can:
 
-- Feature 1 here
-- Feature 2 here
-- Feature 3 here
-- Feature 4 here
-- Feature 5 here
+- View a list of previous cats sighted
+- View a list of previous cat sightings (organised by cat, or by date)
+- Add a new cat to the system
+- Add a sighting of a new cat to the system
 
 ## Documentation
 
 The following documents support this project:
 
-- [Design & Review](Design.md)
-- [Development & Testing](Development.md)
+- [Design & Review](docs/Design.md)
+- [Development & Testing](docs/Development.md)
+
+## Accounts
+
+The admin account
+- Username: admin
+- Password: admin
+
